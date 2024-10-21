@@ -1,5 +1,7 @@
 # Sample Project
 
+Hello
+
 This is an example of how teams can structure their project repositories and format their project README.md file.
 
 When creating a project repository from this template choose "Public" so other participants can follow progress. Add a "topic" to your repository details (click on the gear icon next to the "About" section on the repository page) to help others find your work (e.g. `ecco-hackweek-2024`).
