@@ -1,5 +1,5 @@
 # Team Spinners
-
+ 
 ## Vorticity Budget Closure
 
 In this project we seek to close the vorticity budget for ECCOv4r5. 
